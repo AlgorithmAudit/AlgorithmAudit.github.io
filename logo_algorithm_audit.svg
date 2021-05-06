@@ -155,8 +155,7 @@
   <line fill="none" stroke-width="4" x1="140" y1="119.5" x2="206.00758" y2="119.5" id="svg_177" stroke="#7a8cbe"/>
  </g>
  <g id="Text">
-  <text x="275" y="100" fill="#7a8cbe" font-size="75px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Algorithm</text>
-  <text x="275" y="160" fill="#7a8cbe" font-size="75px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Audit</text>
+  <text x="275" y="100" fill="#7a8cbe" font-size="90px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Algorithm Audit</text>
  </g>
 
 </svg>
