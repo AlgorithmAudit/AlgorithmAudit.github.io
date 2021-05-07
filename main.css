@@ -3,12 +3,40 @@ body{
     margin:0;padding:0;
     font-family:IbmPlexSansRegular}
 a{color:#ff4900;text-decoration:none}
-@font-face{font-family:IbmPlexSansBold;src:url(../Fonts/ibm-plex-sans-bold/ibm-plex-sans-bold.eot) format("embedded-opentype"), url(../Fonts/ibm-plex-sans-bold/ibm-plex-sans-bold.woff) format("woff"), url(../Fonts/ibm-plex-sans-bold/ibm-plex-sans-bold.ttf) format("truetype")}
-@font-face{font-family:IbmPlexSansBoldItalic;src:url(ibm-plex-sans-bold-italic.eot);src:url(../fonts/ibm-plex-sans-bold-italic/ibm-plex-sans-bold-italic-webfont.eot?#iefix) format("eot?#iefix"),url(../fonts/ibm-plex-sans-bold-italic/ibm-plex-sans-bold-italic-webfont.woff) format("woff"),url(../fonts/ibm-plex-sans-bold-italic/ibm-plex-sans-bold-italic-webfont.ttf) format("truetype")}
-@font-face{font-family:IbmPlexSansItalic;src:url(ibm-plex-sans-italic.eot);src:url(../fonts/ibm-plex-sans-italic/ibm-plex-sans-italic-webfont.eot?#iefix) format("eot?#iefix"),url(../fonts/ibm-plex-sans-italic/ibm-plex-sans-italic-webfont.woff) format("woff"),url(../fonts/ibm-plex-sans-italic/ibm-plex-sans-italic-webfont.ttf) format("truetype")}
-@font-face{font-family:IbmPlexSansLight;src:url(ibm-plex-sans-light.eot);src:url(../fonts/ibm-plex-sans-light/ibm-plex-sans-light-webfont.eot?#iefix) format("eot?#iefix"),url(../fonts/ibm-plex-sans-light/ibm-plex-sans-light-webfont.woff) format("woff"),url(../fonts/ibm-plex-sans-light/ibm-plex-sans-light-webfont.ttf) format("truetype")}
-@font-face{font-family:IbmPlexSansRegular;src:url(ibm-plex-sans-regular.eot);src:url(../fonts/ibm-plex-sans-regular/ibm-plex-sans-regular-webfont.eot?#iefix) format("eot?#iefix"),url(../fonts/ibm-plex-sans-regular/ibm-plex-sans-regular-webfont.woff) format("woff"),url(../fonts/ibm-plex-sans-regular/ibm-plex-sans-regular-webfont.ttf) format("truetype")}
-@font-face{font-family:IbmPlexSansSemiBold;src:url(ibm-plex-sans-semi-bold.eot);src:url(../fonts/ibm-plex-sans-semi-bold/ibm-plex-sans-semi-bold-webfont.eot?#iefix) format("eot?#iefix"),url(../fonts/ibm-plex-sans-semi-bold/ibm-plex-sans-semi-bold-webfont.woff) format("woff"),url(../fonts/ibm-plex-sans-semi-bold/ibm-plex-sans-semi-bold-webfont.ttf) format("truetype")}@font-face{font-family:IbmPlexSansSemiBoldItalic;src:url(ibm-plex-sans-semi-bold-italic.eot);src:url(../fonts/ibm-plex-sans-semi-bold-italic/ibm-plex-sans-semi-bold-italic-webfont.eot?#iefix) format("eot?#iefix"),url(../fonts/ibm-plex-sans-semi-bold-italic/ibm-plex-sans-semi-bold-italic-webfont.woff) format("woff"),url(../fonts/ibm-plex-sans-semi-bold-italic/ibm-plex-sans-semi-bold-italic-webfont.ttf) format("truetype")}
+@font-face{font-family:IbmPlexSansBold;src:
+    url(../Fonts/ibm-plex-sans-bold/ibm-plex-sans-bold.eot) format("embedded-opentype"),
+    url(../Fonts/ibm-plex-sans-bold/ibm-plex-sans-bold.woff) format("woff"),
+    url(../Fonts/ibm-plex-sans-bold/ibm-plex-sans-bold.ttf) format("truetype")}
+
+@font-face{font-family:IbmPlexSansBoldItalic;src:
+    url(../Fonts/ibm-plex-sans-bold-italic/ibm-plex-sans-bold-italic.eot) format("embedded-opentype"),
+    url(../Fonts/ibm-plex-sans-bold-italic/ibm-plex-sans-bold-italic.woff) format("woff"),
+    url(../Fonts/ibm-plex-sans-bold-italic/ibm-plex-sans-bold-italic.ttf) format("truetype")}
+
+@font-face{font-family:IbmPlexSansItalic;src:
+    url(../Fonts/ibm-plex-sans-italic/ibm-plex-sans-italic.eot) format("embedded-opentype"),
+    url(../Fonts/ibm-plex-sans-italic/ibm-plex-sans-italic.woff) format("woff"),
+    url(../Fonts/ibm-plex-sans-italic/ibm-plex-sans-italic.ttf) format("truetype")}
+
+@font-face{font-family:IbmPlexSansLight;src:
+    url(../Fonts/ibm-plex-sans-light/ibm-plex-sans-light.eot) format("embedded-opentype"),
+    url(../Fonts/ibm-plex-sans-light/ibm-plex-sans-light.woff) format("woff"),
+    url(../Fonts/ibm-plex-sans-light/ibm-plex-sans-light.ttf) format("truetype")}
+
+@font-face{font-family:IbmPlexSansRegular;src:
+    url(../Fonts/ibm-plex-sans-regular/ibm-plex-sans-regular.eot) format("embedded-opentype"),
+    url(../Fonts/ibm-plex-sans-regular/ibm-plex-sans-regular.woff) format("woff"),
+    url(../Fonts/ibm-plex-sans-regular/ibm-plex-sans-regular.ttf) format("truetype")}
+
+@font-face{font-family:IbmPlexSansSemiBold;src:
+    url(../Fonts/ibm-plex-sans-semi-bold/ibm-plex-sans-semi-bold.eot) format("embedded-opentype"),
+    url(../Fonts/ibm-plex-sans-semi-bold/ibm-plex-sans-semi-bold.woff) format("woff"),
+    url(../Fonts/ibm-plex-sans-semi-bold/ibm-plex-sans-semi-bold.ttf) format("truetype")}
+
+@font-face{font-family:IbmPlexSansSemiBoldItalic;src:
+    url(../Fonts/ibm-plex-sans-semi-bold-italic/ibm-plex-sans-semi-bold-italic.eot) format("embedded-opentype"),
+    url(../Fonts/ibm-plex-sans-semi-bold-italic/ibm-plex-sans-semi-bold-italic.woff) format("woff"),
+    url(../Fonts/ibm-plex-sans-semi-bold-italic/ibm-plex-sans-semi-bold-italic.ttf) format("truetype")}
 
 /*!
  *  Font Awesome 4.4.0 by @davegandy - http://fontawesome.io - @fontawesome
