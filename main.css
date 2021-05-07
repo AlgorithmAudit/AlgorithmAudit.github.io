@@ -153,7 +153,7 @@ a{color:#ff4900;text-decoration:none}
     @media (min-width:769px){.section#about{height:800px;padding-top:0}}.section#companies{background-color:#575259;background-image:url(../images/home/companies-bg.jpg);background-size:cover;background-position:50%}
     @media (min-width:769px){.section#companies{height:800px}}.section
      
-    #latest-news{background-color:#ff4900;background-image:url(../Images/python_code.gif);background-size:cover}
+    #latest-news{background-color:#ff4900;background-image:url(../Images/home/news-bg.jpg);background-size:cover}
     @media (min-width:769px){.section
         #latest-news{padding-top:0;padding-bottom:0}}
     .section
